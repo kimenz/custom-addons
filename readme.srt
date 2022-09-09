@@ -1,3 +1,10 @@
 ####################
 Kimenz Custom Addons
 ####################
+
+After Installing proceed with
+
+apt-get install -y git python3 nano virtualenv xz-utils \
+    wget fontconfig libfreetype6 libx11-6 libxext6 libxrender1 xfonts-75dpi gitg libpq-dev gcc build-essential python3-dev libxslt1-dev libldap2-dev libsasl2-dev \
+    libzip-dev libssl-dev libxml2-dev swig pkg-config libxmlsec1-dev libxml2-dev libxmlsec1-openssl libffi-dev
+
