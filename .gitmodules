@@ -6,3 +6,87 @@
 	path = account-invoicing
 	url = https://github.com/oca/account-invoicing
 	branch = 14.0
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/oca/account-payment
+	branch = 14.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/oca/account-invoice-reporting
+	branch = 14.0
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/oca/calendar
+	branch = 14.0
+[submodule "contract"]
+	path = contract
+	url = https://github.com/oca/contract
+	branch = 14.0
+[submodule "maintenance"]
+	path = maintenance
+	url = https://github.com/oca/maintenance
+	branch = 14.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/oca/helpdesk
+	branch = 14.0
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/oca/field-service
+	branch = 14.0
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/oca/timesheet
+	branch = 14.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/oca/geospatial
+	branch = 14.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/oca/server-tools
+	branch = 14.0
+[submodule "project"]
+	path = project
+	url = https://github.com/oca/project
+	branch = 14.0
+[submodule "web"]
+	path = web
+	url = https://github.com/oca/web
+	branch = 14.0
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/oca/manufacture
+	branch = 14.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/oca/product-attribute
+	branch = 14.0
+[submodule "website"]
+	path = website
+	url = https://github.com/oca/website
+	branch = 14.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/oca/stock-logistics-workflow
+	branch = 14.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/oca/stock-logistics-barcode
+	branch = 14.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/oca/stock-logistics-warehouse
+	branch = 14.0
+[submodule "social"]
+	path = social
+	url = https://github.com/oca/social
+	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/oca/server-ux
+	branch = 14.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/oca/partner-contact
+	branch = 14.0
