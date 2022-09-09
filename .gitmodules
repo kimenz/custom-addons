@@ -2,3 +2,7 @@
 	path = l10n-brazil
 	url = https://github.com/oca/l10n-brazil
 	branch = 14.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/oca/account-invoicing
+	branch = 14.0
