@@ -1,0 +1,4 @@
+[submodule "l10n-brazil"]
+	path = l10n-brazil
+	url = https://github.com/oca/l10n-brazil
+	branch = 14.0
