@@ -8,3 +8,34 @@ apt-get install -y git python3 nano virtualenv xz-utils \
     wget fontconfig libfreetype6 libx11-6 libxext6 libxrender1 xfonts-75dpi gitg libpq-dev gcc build-essential python3-dev libxslt1-dev libldap2-dev libsasl2-dev \
     libzip-dev libssl-dev libxml2-dev swig pkg-config libxmlsec1-dev libxml2-dev libxmlsec1-openssl libffi-dev
 
+##############
+ADDONS-PATH CP
+##############
+
+addons_path = 
+	/usr/lib/python3/dist-packages/odoo/addons,
+	/usr/lib/python3/dist-packages/odoo/custom-addons/account-invoicing,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/account-payment,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/account-invoice-reporting,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/calendar,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/contract,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/maintenance,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/helpdesk,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/l10n-brazil,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/field-service,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/timesheet,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/geospatial,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/server-tools,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/project,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/partner-contact,
+	/usr/lib/python3/dist-packages/odoo/custom-addons/web,
+	/usr/lib/python3/dist-packages/odoo/custom-addons/manufacture,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/website,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/product-attribute,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/stock-logistics-workflow,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/stock-logistics-barcode,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/stock-logistics-warehouse,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/social,
+        /usr/lib/python3/dist-packages/odoo/custom-addons/server-ux
+
+
