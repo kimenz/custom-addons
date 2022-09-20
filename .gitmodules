@@ -90,3 +90,11 @@
 	path = partner-contact
 	url = https://github.com/oca/partner-contact
 	branch = 14.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/oca/knowledge
+	branch = 14.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/oca/management-system
+	branch = 14.0
